@@ -46,4 +46,5 @@ header {
     border-radius: 50%;
     overflow: hidden;
     cursor: pointer;
+    margin: 0px 10px;
 }
